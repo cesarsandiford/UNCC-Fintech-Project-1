@@ -8,8 +8,8 @@
 -Cesar Sanford
 -Duke Boger
 -Abrea Penn
--Stephen Jordan
--James Bennett </H2>
+-Steven Jordan
+-James Bennett 
 
 <H3> Instructor</H3>
 -Venu Thamadharan
