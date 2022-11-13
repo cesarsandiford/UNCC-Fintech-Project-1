@@ -1,8 +1,10 @@
 <H1># UNCC-Fintech-Project-1</H1>
 <H2> The Purpose of the code is to:</H2>
-1.
-2.
-3.
+<ol>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ol>
 
 <H2> Contributers</H2>
 <ol>
