@@ -1,8 +1,8 @@
 <H1># UNCC-Fintech-Project-1</H1>
-<H2> The Purpose of the code is to...
+<H2> The Purpose of the code is to:</H2>
 1)
 2)
-3)</H2>
+3)
 
 <H2> Contributers</H2>
 -Cesar Sanford
