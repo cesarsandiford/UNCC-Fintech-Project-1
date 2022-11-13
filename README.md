@@ -6,7 +6,7 @@
   <li> </li>
 </ol>
 
-<H2> Contributers</H2>
+<H2><em><strong>Contributors</strong></em></H2>
 <ol>
   <li>Cesar Sanford</li>
   <li>Duke Boger</li>
@@ -21,6 +21,3 @@
 -Venu Thamadharan
 <H3> T.A.</H3>
 -Matt Stoffer
-
-<h5>Reference:
- https://pypi.org/project/yfinance/
