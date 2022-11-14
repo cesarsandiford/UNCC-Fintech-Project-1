@@ -1,5 +1,5 @@
 <H1># UNCC-Fintech-Project-1</H1>
-<H2> The Purpose of the code is to:</H2>
+<H2><em><strong>The Purpose of The Code is to</strong></em></H2>
 <ol>
   <li> </li>
   <li> </li>
@@ -17,7 +17,7 @@
 
 
 
-<H3> Instructor</H3>
+<H3><em><strong>Instructure</strong></em></H3>
 -Venu Thamadharan
-<H3> T.A.</H3>
+<H3><em><strong>Teacher Assistant</strong></em></H3>
 -Matt Stoffer
