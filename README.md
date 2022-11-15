@@ -1,7 +1,7 @@
 <H1># UNCC-Fintech-Project-1</H1>
 <H2><em><strong>The Purpose of The Code is to</strong></em></H2>
 <ol>
-  <li> </li>
+  <li>Pull Information from API </li>
   <li> </li>
   <li> </li>
 </ol>
