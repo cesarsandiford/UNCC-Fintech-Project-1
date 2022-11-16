@@ -12,7 +12,7 @@
    <li>What were the pre-pandemic vs post pandemic stock figures 2019 - 2021? </li>
     <li> Which set of investments/stocks produce the greatest probability for success?</li>
      <li>How did the selected stocks perform, specifically during the pandemic? </li> 
-      <li> Which Sector/Market had the lowest/Highest? risk</li>
+      <li> Which Sector/Market had the lowest/Highest risk?</li>
 
 <H2><em><strong>Contributors</strong></em></H2>
 <ol>
