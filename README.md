@@ -17,7 +17,7 @@
 
 
 
-<H3><em><strong>Instructure</strong></em></H3>
+<H3><em><strong>Instructor</strong></em></H3>
 -Venu Thamadharan
 <H3><em><strong>Teacher Assistant</strong></em></H3>
 -Matt Stoffer
