@@ -6,7 +6,8 @@
   <li>Use the empirical for the drawdown that will be calculate each stock  at its  lowest point </li>
 </ol>
 
-<H2> Questions:</H2>
+
+<H2><em><strong>Questions:</strong></em></H2>
 <ol>
 <li>What were some of the challenges that were faced? How were they resolved? </li>
   <li>We are looking for the possible outcomes of data? </li>
