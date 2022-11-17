@@ -27,7 +27,7 @@
 
 
 <H3><em><strong>Instructor:</strong></em></H3>
--Venu Thamadharan
+-Venu Thamodharan
 <H3><em><strong>Teacher Assistant</strong></em></H3>
 -Matt Stoffer
 
