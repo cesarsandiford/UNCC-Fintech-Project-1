@@ -29,3 +29,8 @@
 -Venu Thamadharan
 <H3><em><strong>Teacher Assistant</strong></em></H3>
 -Matt Stoffer
+
+<H4>References:
+  <li> https://pypi.org/ Used to pull empyrical data </li>
+<li> (DRAWDOWNS Section)(https://www.quantrocket.com/codeload/quant-finance-lectures/quant_finance_lectures/Lecture33-Portfolio-Analysis-with-pyfolio.ipynb.html) </li>
+  
