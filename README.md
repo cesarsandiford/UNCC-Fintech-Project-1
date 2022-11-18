@@ -1,16 +1,38 @@
 <H1># UNCC-Fintech-Project-1</H1>
 <H1> ETF ANALYZER </H1>
-<li>The python code is an ETF Analyzation tool which pulls data from API Keys utilizing the Monte’Carlo Simulation but not limited to Sim.  Its utilizing drawndown and sharpe ratio using imperical functions to calculate volatility.</li>
+<li>The python code is an ETF Analyzation tool which pulls data from API Keys utilizing the Monte’Carlo Simulation but not limited to Monte Carlo initial Simulation data.  Its utilizing drawndown and sharpe ratio using imperical functions to calculate volatility.</li>
 
 <H2><em><strong>STEPS TO OPERATING ETF ANALYZER</strong></em></H2>
-<li>This code seeks to pull and evaluate any particular asset class chosen to see what effects the current env would have BASED upon any specific period in time.  We are able to similate historical - present data to determine data based on specific conditions </li>
 
-<li>How would assets behave and max draw-down each asset can give?</li>
-
+<li>How would assets behave during an economic disruption?</li>
 <li>What would be the volatility?</li>
+
+<H1> Flow </H1>
+<li>User uploads an API KEY to access asset class data for analysis.</li>
+ <li>User selects a group of ETFs and Stocks for analysis. </li>
+ <li> User imports and uploads .env file </li>
+ <li> User pulls API to utilize data. (NOTE) this could be to import tickers.
+ <li>This code seeks to pull and evaluate any particular asset class chosen to see what effects the current global financial environments   will have on the selected market. </li>
+
+<H2>PULL TIMEFRAME </H2>
+     <li>Pull time frame in order to determine a selected date in order to pull relevant data</li>
+    <li> What is the purpose of pulling the specific timeframe
+     <li>Are we meaning to include specific outliers, eg. COVID-19, or would you prefer to keep a more average flow of time? 
+      
+<H2>Pull Daily Return</H2> 
+        
+<H2>PULL PLOT </H2>
+     <li>utilizing hvplot </li>
+     <li>Note:You may use a specific plot which utilizes tickers </li>
+   
+<H2>Utilize Empyrical Function</H2>   
+<li>Empyrical Sharpe Ratio Function gives you risk adjusted returns</li>
+
+
 <H2><em><strong>Questions:</strong></em></H2>
 <ol>
-<li>What were some of the challenges that were faced? How were they resolved? </li>
+
+  <li>What were some of the challenges that were faced? How were they resolved? </li>
   <li>We are looking for the possible outcomes of data? </li>
    <li>What were the pre-pandemic vs post pandemic stock figures 2019 - 2021? </li>
          <li>How did the selected stocks perform, specifically during the pandemic? </li> 
