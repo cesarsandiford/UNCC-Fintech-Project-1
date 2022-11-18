@@ -1,12 +1,13 @@
 <H1># UNCC-Fintech-Project-1</H1>
-<H2><em><strong>The Purpose of The Code is to:</strong></em></H2>
-<ol>
-  <li>Pull Information from API: </li>
-  <li>Use Numpy Mathematical Calculation </li>
-  <li>Use the empirical for the drawdown that will be calculate each stock  at its  lowest point </li>
-</ol>
+<H1> ETF ANALYZER </H1>
+<li>The python code is an ETF Analyzation tool which pulls data from API Keys utilizing the Monte’Carlo Simulation but not limited to Sim.  Its utilizing drawndown and sharpe ratio using imperical functions to calculate volatility.</li>
 
+<H2><em><strong>STEPS TO OPERATING ETF ANALYZER</strong></em></H2>
+<li>This code seeks to pull and evaluate any particular asset class chosen to see what effects the current env would have BASED upon any specific period in time.  We are able to similate historical - present data to determine data based on specific conditions </li>
 
+<li>How would assets behave and max draw-down each asset can give?</li>
+
+<li>What would be the volatility?</li>
 <H2><em><strong>Questions:</strong></em></H2>
 <ol>
 <li>What were some of the challenges that were faced? How were they resolved? </li>
