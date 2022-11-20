@@ -29,7 +29,7 @@
 <li>Empyrical Sharpe Ratio Function gives you risk adjusted returns</li>
 
 
-<H2><em><strong>Questions:</strong></em></H2>
+<H3><em><strong>Questions:</strong></em></H3>
 <ol>
 
   <li>What were some of the challenges that were faced? How were they resolved? </li>
@@ -38,7 +38,7 @@
          <li>How did the selected stocks perform, specifically during the pandemic? </li> 
       <li> Which Sector/Market had the lowest/Highest risk?</li>
 </ol>
-<H2><em><strong>Contributors:</strong></em></H2>
+<H3><em><strong>Contributors:</strong></em></H3>
 
 
   <li>Cesar Sandiford</li>
