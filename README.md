@@ -20,7 +20,7 @@
      <li>Are we meaning to include specific outliers, eg. COVID-19, or would you prefer to keep a more average flow of time? 
       
 <H2>Pull Daily Return</H2> 
-        
+        <li>Daily Returns is the data which is pulled utilizing the API Key. </li>
 <H2>PULL PLOT </H2>
      <li>utilizing hvplot </li>
      <li>Note:You may use a specific plot which utilizes tickers </li>
@@ -28,8 +28,16 @@
 <H2>Utilize Empyrical Function</H2>   
 <li>Empyrical Sharpe Ratio Function gives you risk adjusted returns</li>
 
+<H2>Utilize hvplot</H2>
+<li>hvplot is utilized as a means to show data in a more interactive way. It allows us to physically interact with the data in order for the user analyze the data more efficiently.</li>
 
-<H3><em><strong>Questions:</strong></em></H3>
+<H2>Used dotenv</H2>  
+<li>To load the dotenv file so we can use our secrete keys for the APIs</li>
+
+<H2>import alpaca_trade_api as trade api</H2>
+<li>The purpose of the trade api is to load the ticker information and put them into a dataframe</li>
+
+  <H3><em><strong>Questions:</strong></em></H3>
 <ol>
 
   <li>What were some of the challenges that were faced? How were they resolved? </li>
